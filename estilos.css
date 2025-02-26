@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    background-image: url()
+}
+.titulo{
+    /*background-color: black; */
+    text-align: center;
+}
+h1{
+    background-color: rgb(46, 24, 184);
+    width: 60%;
+    display: inline-block;
+    vertical-align: baseline;
+}
+h1:hover{
+    background-color: rgb(197, 224, 19);
+}
+.logo{
+    border:0px; width: 35px;
+    vertical-align: 
+    ;
+}
